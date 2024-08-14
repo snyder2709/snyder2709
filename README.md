@@ -3,14 +3,40 @@
 <!--
 **snyder2709/snyder2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there, I'm Alexandr ✔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![](https://img.shields.io/github/watchers/chudickgumanoid/chudickgumanoid?label=chudickgumanoid&style=social) -->
+___
+### :dash: Languages and Tools:
+
+<div>
+  <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+  <img align="left" alt="TailwindCss" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+  <img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg"/>
+  <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+  <img align="left" alt="Elixir" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/elixir/elixir-original.svg"/>
+  <img align="left" alt="Phoenix elixir" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/phoenix/phoenix-original.svg"/>
+  <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
+  <img align="left" alt="Ubuntu" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg"/>
+
+</div>
+
+</br>
+</br>
+
+___
+
+### :eyes: Some of my Guthub stats
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=dracula&count_private=true) -->
+</br>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snyder2709&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+### Connect with me:
+<div>
+  <a href="https://t.me/ilya_voletarskiy" target="_blank"><img src=".img/../img/tg.png" width="32px"></a>
+</div>
