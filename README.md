@@ -30,5 +30,5 @@ ___
 
 ### Connect with me:
 <div>
-  <a href="https://t.me/ilya_voletarskiy" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" width="32px"></a>
+  <a href="https://t.me/ilya_voletarskiy" target="_blank"><img src="./img/tg.png" width="32px"></a>
 </div>
